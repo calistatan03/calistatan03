@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=calistatan03)](https://github.com/calistatan03/github-readme-stats)
+
 <!--
 **calistatan03/calistatan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
